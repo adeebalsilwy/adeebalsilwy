@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I am a developer of desktop applications and web applications. I am from Yemen
+I am a desktop and web application developer with expertise in .NET, PHP, and Laravel. I also specialize in mobile application development using Flutter. With my skills and knowledge in these technologies, I create robust and efficient applications for various platforms. I have experience in developing user-friendly interfaces and implementing functionality that meets the specific requirements of clients. I strive to stay updated with the latest industry trends and best practices to deliver high-quality solutions.
