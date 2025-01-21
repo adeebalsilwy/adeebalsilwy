@@ -1,75 +1,86 @@
-# مرحبًا، أنا أديب علي أحمد عبدالله 👋 | Hi there, I'm Adeeb Ali Ahmed Abdullah 👋
+<h1 align="center">
+  <a href="https://github.com/adeebalsilwy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=0E75B6&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Adeeb+Ali+Ahmed+Abdullah;مرحبا+%F0%9F%91%8B%D8%8C+%D8%A3%D9%86%D8%A7+%D8%A3%D8%AF%D9%8A%D8%A8+%D8%B9%D9%84%D9%8A+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87" alt="Typing SVG" />
+  </a>
+</h1>
+<h3 align="center">Software Engineer | Backend Developer</h3>
 
-## 🧑‍💻 عني | About Me
-أديب علي أحمد عبد الله هو مهندس برمجيات مبدع وخبير في تطوير تطبيقات الويب باستخدام Laravel وNext.js مع React.js. حصلت على درجة البكالوريوس في تكنولوجيا المعلومات من جامعة إقرأ للعلوم (2019-2023). لدي مهارات واسعة في تطوير تطبيقات الهاتف المحمول باستخدام Flutter، وتطوير الويب باستخدام Laravel وNext.js، وتطبيقات سطح المكتب بلغة C#. أتمتع بمهارات شخصية متميزة تشمل المرونة، وحل المشكلات، والتواصل الفعّال، والتنظيم، والمسؤولية. أجيد اللغتين العربية والإنجليزية بطلاقة.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adeebalsilwy&label=Profile%20views&color=0e75b6&style=flat" alt="adeebalsilwy" />
+  <a href="https://twitter.com/deebo774" target="blank">
+    <img src="https://img.shields.io/twitter/follow/deebo774?logo=twitter&style=for-the-badge" alt="deebo774" />
+  </a>
+</p>
 
-Adeeb Ali Ahmed Abdullah is a creative and expert software engineer specializing in web application development using Laravel and Next.js with React.js. He holds a Bachelor's degree in Information Technology from Iqra University of Science (2019-2023). Adeeb has extensive skills in mobile application development using Flutter, web development using Laravel and Next.js, and desktop applications with C#. He possesses excellent personal skills including flexibility, problem-solving, effective communication, organization, and responsibility. He is fluent in both Arabic and English.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adeebalsilwy&theme=radical" alt="adeebalsilwy" />
+  </a>
+</p>
 
-## 🛠️ المهارات | Skills
-- **اللغات | Languages:**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adeebalsilwy&show_icons=true&theme=radical" alt="adeebalsilwy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeebalsilwy&theme=radical" alt="adeebalsilwy" />
+</div>
 
-- **أطر العمل والمكتبات | Frameworks/Libraries:**
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebalsilwy&layout=compact&theme=radical" alt="adeebalsilwy" />
+</p>
 
-- **الأدوات | Tools:**
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
+<div align="center">
+  <img src="https://github.com/adeebalsilwy/adeebalsilwy/blob/main/assets/code.gif" alt="Coding Animation" width="500"/>
+</div>
 
-## 📚 المشاريع | Projects
+## 🧑‍💻 About Me
+I'm Adeeb Ali Ahmed Abdullah, a creative and expert software engineer specializing in web application development using Laravel and Next.js with React.js. I hold a Bachelor's degree in Information Technology from Iqra University of Science (2019-2023). I have extensive skills in mobile application development using Flutter, web development using Laravel and Next.js, and desktop applications with C#. I am also an experienced Odoo developer.
 
-### [أكاديمية تطوير التعليمية | Tatweer Academy](http://tatweeracademy.net/)
-أكاديمية تطوير التعليمية هي منصة تعليمية متقدمة تم تطويرها باستخدام إطار العمل Laravel مع Blade، مما يضمن أداءً عاليًا وواجهة مستخدم سلسة. توفر المنصة تجربة تعليمية متكاملة تشمل دورات تدريبية، واختبارات تفاعلية، ومكتبة واسعة من الموارد التعليمية.
+- 🔭 I am currently working on [Odoo Developer Project](https://www.reach369.com/odoo)
+- 🌱 I’m currently learning **new technologies and programming innovations**
+- 👨‍💻 All of my projects are available at [https://erp.deebotech.net/cards/adeebalsilwy](https://erp.deebotech.net/cards/adeebalsilwy)
+- 📝 I regularly write articles on [https://tatweeracademy.net/](https://tatweeracademy.net/)
+- 💬 Ask me about **web development using Laravel and Next.js, mobile applications using Flutter, desktop applications using C#, and Odoo development**
+- 📫 How to reach me **adeeb@example.com**
+- 📄 Know about my experiences [Resume](#)
 
-Tatweer Academy is an advanced educational platform developed using the Laravel framework with Blade, ensuring high performance and a smooth user interface. The platform offers a comprehensive educational experience, including training courses, interactive tests, and a wide library of educational resources.
+## 🛠️ Languages and Tools
+<p align="center"> 
+  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.odoo.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+</p>
 
-### [نظام إدارة الأكاديميات | Academic Management System](#)
-نظام إدارة الأكاديميات يقدم حلاً شاملاً ومرناً لإدارة كافة جوانب الأكاديمية بطريقة ديناميكية ومتكاملة. يدعم النظام كافة العمليات الأكاديمية والإدارية بكفاءة وفعالية.
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adeebalsilwy&theme=radical" alt="adeebalsilwy" />
+</p>
 
-The Academic Management System provides a comprehensive and flexible solution for managing all aspects of an academy dynamically and integrally. The system supports all academic and administrative operations efficiently and effectively.
+## ✍️ Blog Posts
+- [https://tatweeracademy.net/](https://tatweeracademy.net/)
 
-### [متجر إلكتروني متكامل | Integrated E-Commerce Store](#)
-الحلقة الذهبية لإدارة المتاجر هو نظام تجارة إلكترونية حديث ومرن يدعم تعدد البائعين، ويتميز بواجهة مستخدم متطورة ومخصصة للأجهزة المحمولة، مما يعزز تجربة التسوق لعملائك.
-
-The Golden Circle for Store Management is a modern and flexible e-commerce system supporting multiple vendors, featuring an advanced mobile-friendly user interface that enhances the shopping experience for your customers.
-
-### [نظام إدارة المستشفيات الشامل | Comprehensive Hospital Management System](#)
-الحلقة الذهبية هو نظام إدارة المستشفيات والمراكز الطبية المتكامل الذي يأتي مزودًا بأكثر من 60 ميزة مبتكرة و9 أنواع مختلفة من المستخدمين لتلبية كافة احتياجات المؤسسة الطبية.
-
-The Golden Circle is a comprehensive hospital and medical center management system that comes equipped with over 60 innovative features and 9 different types of users to meet all the needs of the medical institution.
-
-## 📈 الإحصاءات على GitHub | GitHub Stats
-![Adeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeebalsilwy&show_icons=true&theme=radical)
-
-## 📫 تواصل معي | Let's Connect!
-- [LinkedIn](#)
-- [Twitter](#)
-- [Instagram](https://www.instagram.com/deebo774/)
-
-## 📜 الشهادات | Certifications
-- شهادات في Office وPhotoshop.
-- برامج متنوعة مثل الإسعافات الأولية ودراسات الشريعة.
-
-Certifications in Office and Photoshop.
-Participated in various programs such as First Aid and Sharia Studies.
-
-## 💼 الخدمات | Services
-- تصميم مواقع الانترنت | Web Design
-- تطوير تطبيقات الموبايل | Mobile App Development
-- تطوير تطبيقات سطح المكتب | Desktop App Development
-
-## 📞 اتصل بي | Contact Me
-- 📧 [adeeb@example.com](mailto:adeeb@example.com)
-- 📱 +967774577134
+## 📫 Contact Me
+<p align="center">
+  <a href="https://twitter.com/deebo774" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/deebo774?logo=twitter&style=for-the-badge" alt="deebo774" /></a>
+  <a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://instagram.com/deebo774" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram" alt="instagram" /></a>
+</p>
 
 ---
 
-© ديبو تك 2024 | © Deebo Tech 2024
+© Deebo Tech 2024
